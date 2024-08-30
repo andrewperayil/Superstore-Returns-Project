@@ -28,9 +28,8 @@ The aim of this project was to analyze the high number of returned orders at the
 #### Part 1: What is Causing Returns?
 * Correlation Analysis
   * Scatterplot showing the correlation between total sales and total returns, aggregated by product subcategory.
-  * ![image](https://github.com/user-attachments/assets/dab2fcab-8269-4640-9309-56938dffdbbb)
+   ![image](https://github.com/user-attachments/assets/dab2fcab-8269-4640-9309-56938dffdbbb)
 
-  <img width="1437" alt="Screen Shot 2024-02-20 at 1 47 03 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/a5399b6c-89e5-446f-9171-e56404fa9fa5">
 * Return Rate by Product Category
   * Bar chart displaying the return rate by product category.
   <img width="993" alt="Screen Shot 2024-02-20 at 1 48 00 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/62e2ce82-c5c9-483e-b6a4-7c32923a625d">
