@@ -32,19 +32,25 @@ The aim of this project was to analyze the high number of returned orders at the
 
 * Return Rate by Product Category
   * Bar chart displaying the return rate by product category.
-  <img width="993" alt="Screen Shot 2024-02-20 at 1 48 00 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/62e2ce82-c5c9-483e-b6a4-7c32923a625d">
-  <img width="904" alt="Screen Shot 2024-02-20 at 1 49 01 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/42958146-b9a2-4b0e-a302-c5c6b8d305d1">
+  ![image](https://github.com/user-attachments/assets/641c7500-d9d5-4db2-ae63-91cf5339c5f1)
+  ![image](https://github.com/user-attachments/assets/78091403-7df2-4e86-8f32-77c6deae9040)
+
 * Return Rate by Customer
   * Analysis of return rate by customer, filtering out customers with only 1 order.
+    ![image](https://github.com/user-attachments/assets/8e73f803-9d02-45af-8a64-395e934b003c)
+
 * Geographic Analysis
   * Map representation of the return rate by geographic measure (state, city, etc.).
-  <img width="857" alt="Screen Shot 2024-02-20 at 1 50 34 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/90c57355-9278-42b1-819d-fbc2e6b73de3">
+  ![image](https://github.com/user-attachments/assets/cc3355ae-5d85-4867-879f-3ac0c564e6c7)
+
 * Seasonal Effect Analysis
   * Analysis of return rate by time measure (month, week, etc.) to detect seasonal effects.
-  <img width="888" alt="Screen Shot 2024-02-20 at 1 51 26 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/ba92cf82-d49b-4deb-92ff-a67082910f96">
+  ![image](https://github.com/user-attachments/assets/c44da789-e1f2-4bfd-abf8-24e746b5d7dd)
+
 * Composite Charts
   * Two composite charts showing the return rate based on multiple factors (date, geography, product category, etc.).
-  * <img width="807" alt="Screen Shot 2024-02-20 at 1 52 19 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/a6106037-cfb0-44ba-9f87-7b14a3f7dec4">
+  ![image](https://github.com/user-attachments/assets/92109426-eb16-4f78-84c1-891b2ee87948)
+
 #### Part 2: Presenting Your Analysis and Dashboard
 * Story Arc Construction
   * Drafting the story arc using captions for each Story Point, including:
@@ -58,7 +64,8 @@ The aim of this project was to analyze the high number of returned orders at the
     * Identification of key root causes
     * Overview of each dashboard component
     * Demonstration of dashboard usage
-    <img width="1061" alt="Screen Shot 2024-02-20 at 1 53 54 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/ad2994ca-4876-44ac-a311-29f67f7646f1">
+   ![image](https://github.com/user-attachments/assets/0ef1882e-2ff0-418a-8677-0e903c0f8004)
+
 #### Part 3: Conclusion & Proposed Next Steps
 * The average highest return rates stem from Technology products within the West Coast region over the period from 2018-2021. We also see very low sales across office supplies within the same period
 * Based on the data, the business should do away with all products in the western region, mainly technology products
